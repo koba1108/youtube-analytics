@@ -90,4 +90,4 @@ sw.*
 *.swp
 
 # config
-config/index.ts
+config/keys.ts
